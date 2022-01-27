@@ -1,0 +1,6 @@
+DEFINA DOMINIO Empresas.
+
+DEFINA TIPO Empresa
+COM cnpj COMO texto, dono COMO texto, area_de_atuacao COMO texto,
+numero_de_funcionarios COMO inteiro, inflacao COMO float
+OPERACOES CRUD.
